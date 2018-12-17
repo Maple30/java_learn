@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="D0641771_module_1/src"/>
+	<classpathentry kind="src" path="D0641771_Module_3/ZZZ/src"/>
+	<classpathentry kind="src" path="D0641771_Module2/src"/>
+	<classpathentry kind="src" path="D0641771_Module4/Module4/src"/>
+	<classpathentry kind="src" path="D0641771_Module5/D0641771_Module_5/src"/>
+	<classpathentry kind="src" path="QUIZ1/OOD_quiz_1B/Module_3/src"/>
+	<classpathentry kind="output" path="D0641771_Module2/bin"/>
+</classpath>
